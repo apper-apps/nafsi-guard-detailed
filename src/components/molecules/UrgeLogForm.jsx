@@ -1,13 +1,13 @@
 import React, { useState } from "react";
 import { motion } from "framer-motion";
 import { toast } from "react-toastify";
-import Button from "@/components/atoms/Button";
-import Input from "@/components/atoms/Input";
-import Slider from "@/components/atoms/Slider";
-import Card from "@/components/atoms/Card";
-import ApperIcon from "@/components/ApperIcon";
 import urgeService from "@/services/api/urgeService";
-import { cn } from "@/lib/utils";
+import ApperIcon from "@/components/ApperIcon";
+import Input from "@/components/atoms/Input";
+import Button from "@/components/atoms/Button";
+import Card from "@/components/atoms/Card";
+import Slider from "@/components/atoms/Slider";
+import { cn } from "@/utils/cn";
 
 const UrgeLogForm = ({ onSuccess }) => {
   const [formData, setFormData] = useState({
