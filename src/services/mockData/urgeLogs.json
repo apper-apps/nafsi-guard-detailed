@@ -1,0 +1,74 @@
+[
+  {
+    "Id": 1,
+    "userId": "1",
+    "timestamp": "2024-01-22T14:30:00.000Z",
+    "intensity": 7,
+    "trigger": "Boredom",
+    "action": "Prayer/Dhikr",
+    "note": "Felt strong urge after lunch, made wudu and prayed 2 rakah"
+  },
+  {
+    "Id": 2,
+    "userId": "1",
+    "timestamp": "2024-01-21T20:15:00.000Z",
+    "intensity": 5,
+    "trigger": "Social Media",
+    "action": "Take Shower",
+    "note": "Saw triggering content, immediately took cold shower"
+  },
+  {
+    "Id": 3,
+    "userId": "1",
+    "timestamp": "2024-01-20T22:45:00.000Z",
+    "intensity": 8,
+    "trigger": "Late Night",
+    "action": "Read Quran",
+    "note": "Very strong urge before sleep, read Surah Al-Mulk"
+  },
+  {
+    "Id": 4,
+    "userId": "1",
+    "timestamp": "2024-01-19T16:20:00.000Z",
+    "intensity": 4,
+    "trigger": "Stress",
+    "action": "Exercise",
+    "note": "Work stress triggered urge, did 30 push-ups instead"
+  },
+  {
+    "Id": 5,
+    "userId": "1",
+    "timestamp": "2024-01-18T19:10:00.000Z",
+    "intensity": 6,
+    "trigger": "Loneliness",
+    "action": "Call Friend",
+    "note": "Felt lonely and tempted, called my brother for support"
+  },
+  {
+    "Id": 6,
+    "userId": "1",
+    "timestamp": "2024-01-17T13:25:00.000Z",
+    "intensity": 3,
+    "trigger": "Internet Browsing",
+    "action": "Go Outside",
+    "note": "Mild urge while browsing, went for a 15-minute walk"
+  },
+  {
+    "Id": 7,
+    "userId": "1",
+    "timestamp": "2024-01-16T21:00:00.000Z",
+    "intensity": 9,
+    "trigger": "Tiredness",
+    "action": "Deep Breathing",
+    "note": "Very intense urge when tired, did breathing exercises and istighfar"
+  },
+  {
+    "Id": 8,
+    "userId": "1",
+    "timestamp": "2024-01-15T11:40:00.000Z",
+    "intensity": 5,
+    "trigger": "Boredom",
+    "action": "Prayer/Dhikr",
+    "note": "Weekend boredom led to urge, prayed Duha prayer"
+  }
+]
