@@ -1,8 +1,8 @@
-import React from "react";
-import { motion } from "framer-motion";
-import { cn } from "@/lib/utils";
-import ApperIcon from "@/components/ApperIcon";
-import Card from "@/components/atoms/Card";
+import React from 'react';
+import { motion } from 'framer-motion';
+import { cn } from "@/utils/cn";
+import ApperIcon from '@/components/ApperIcon';
+import Card from '@/components/atoms/Card';
 
 const DailyMotivation = ({ content, source, category }) => {
   const getCategoryIcon = (cat) => {
